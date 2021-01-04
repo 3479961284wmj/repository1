@@ -1,0 +1,2 @@
+1. 我的第一github repository
+把文件上传到远程仓库github上面
